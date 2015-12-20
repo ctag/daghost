@@ -1,0 +1,17 @@
+{
+  "title": "DA Ghost",
+  "name": "daghost",
+  "version": "2.2.0",
+  "description": "Block unwanted thumbnails on DeviantArt.",
+  "main": "lib/index.js",
+  "author": "Adam L.",
+  "maintainer": "Christopher Bero",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GPL-3.0",
+  "keywords": [
+    "jetpack"
+  ]
+}
