@@ -1,10 +1,12 @@
 {
   "title": "DA Ghost",
   "name": "daghost",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Block unwanted thumbnails on DeviantArt.",
   "main": "lib/index.js",
   "author": "Adam L.",
+  "updateURL": "https://raw.githubusercontent.com/ctag/daghost/master/update.rdf",
+  "updateLink": "https://github.com/ctag/daghost/releases/download/2.2.2/daghost.xpi",
   "maintainer": "Christopher Bero",
   "engines": {
     "firefox": ">=38.0a1",
